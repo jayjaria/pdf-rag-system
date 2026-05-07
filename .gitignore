@@ -1,0 +1,6 @@
+__pycache__/
+.indices/
+.env
+venv/
+pdfs/
+pdf_history.json
